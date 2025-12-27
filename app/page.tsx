@@ -130,7 +130,7 @@ export default function Home() {
         /public/Sujal_Pathak_Resume.pdf
 
         <a
-  href="/Sujal_Pathak_Resume.pdf.pdf"
+  href="/Sujal_Pathak_Resume.pdf"
   target="_blank"
   rel="noopener noreferrer"
   className="px-4 py-2 bg-blue-600 text-white rounded"
