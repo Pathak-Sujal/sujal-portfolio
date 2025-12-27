@@ -127,6 +127,24 @@ export default function Home() {
             </p>
           </div>
         </div>
+        /public/Sujal_Pathak_Resume.pdf
+
+        <a
+  href="/Sujal_Pathak_Resume.pdf.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="px-4 py-2 bg-blue-600 text-white rounded"
+>
+  View Resume
+</a>
+<a
+  href="/Sujal_Pathak_Resume.pdf"
+  download
+  className="px-4 py-2 bg-green-600 text-white rounded"
+>
+  Download Resume
+</a>
+
       </section>
       {/* CONTACT SECTION */}
       <section
