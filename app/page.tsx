@@ -161,15 +161,37 @@ export default function Home() {
         </p>
 
         <div className="space-y-4">
+         <p className="text-gray-400">
+        Email:{" "}
+        <a
+        href="mailto:pathaksujal955@gmail.com"
+        className="text-white underline hover:text-blue-400"
+  >
+         pathaksujal955@gmail.com
+  </a>
+</p>
           <p className="text-gray-400">
-            📧 Email: <span className="text-white">pathaksujal9555@gmail.com</span>
-          </p>
-          <p className="text-gray-400">
-            💼 LinkedIn: <span className="text-white">linkedin.com/in/sujal-pathak-1353b830a/</span>
-          </p>
-          <p className="text-gray-400">
-            🐙 GitHub: <span className="text-white">https://github.com/Pathak-Sujal</span>
-          </p>
+          LinkedIn:{" "}
+  <a
+          href="https://linkedin.com/in/sujal-pathak-1353b830a"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-white underline hover:text-blue-400"
+  >
+           linkedin.com/in/sujal-pathak
+  </a>
+</p>
+        <p className="text-gray-400">
+        Github:{" "}
+        <a
+        href="https://github.com/Pathak-Sujal"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-white underline hover:text-blue-400"
+   >
+         https://github.com/Pathak-Sujal
+  </a>
+</p>
         </div>
       </section>
     </main>
