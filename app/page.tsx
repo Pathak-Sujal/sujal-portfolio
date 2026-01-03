@@ -164,7 +164,7 @@ export default function Home() {
          <p className="text-gray-400">
         Email:{" "}
         <a
-        href="mailto:pathaksujal955@gmail.com"
+        href="mailto:pathaksujal9555@gmail.com"
         className="text-white underline hover:text-blue-400"
   >
          pathaksujal955@gmail.com
